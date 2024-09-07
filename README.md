@@ -76,3 +76,4 @@ npm i uuid
 npm install lodash
 npm install @reduxjs/toolkit react-redux
 npm install axios       
+npm install redux-thunk
